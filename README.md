@@ -1,7 +1,7 @@
 # EKS Deployment
 
 # Architecture
-![EKS Architecture Diagram](https://github.com/Jainsi1/K8s-Deplyment/assets/75137939/5ca49512-a934-4465-a39d-ebd62b440258)
+![Architecture Diagram](./architecture.png)
 
 
 # Features
