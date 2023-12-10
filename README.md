@@ -1,8 +1,8 @@
 # EKS Deployment
 
 # Architecture
+![EKS Architecture Diagram](https://github.com/Jainsi1/K8s-Deplyment/assets/75137939/5ca49512-a934-4465-a39d-ebd62b440258)
 
-![EKS Architecture Diagram](https://github.com/Jainsi1/K8s-Deplyment/assets/75137939/d9e7fdad-b96a-40a9-b9aa-d4db7ed73263)
 
 # Features
 * Contains a bash file in which terraform commands are written to build infrastructure and it also installs all the required helm charts.
