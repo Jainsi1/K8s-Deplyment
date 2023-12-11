@@ -7,8 +7,8 @@ env:
   CLUSTER_NAME: eks-dev-cluster
   CLUSTER_REGION: ap-south-1
   NAMESPACE: default
-  EKS_APP_NAME: sample-nginx-app
-  HELMFOLDER_PATH: sample-nginx-app/
+  EKS_APP_NAME: sample-apache-app
+  HELMFOLDER_PATH: sample-apache-app/
     
 jobs:
  build:
